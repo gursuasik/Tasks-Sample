@@ -1,0 +1,6 @@
+D:\Documents\Works\Visual Studio\C#\Windows\Console Application\Parallel-PozitifTamBolen\Parallel-PozitifTamBolen\bin\Debug\Parallel-PozitifTamBolen.exe.config
+D:\Documents\Works\Visual Studio\C#\Windows\Console Application\Parallel-PozitifTamBolen\Parallel-PozitifTamBolen\bin\Debug\Parallel-PozitifTamBolen.exe
+D:\Documents\Works\Visual Studio\C#\Windows\Console Application\Parallel-PozitifTamBolen\Parallel-PozitifTamBolen\bin\Debug\Parallel-PozitifTamBolen.pdb
+D:\Documents\Works\Visual Studio\C#\Windows\Console Application\Parallel-PozitifTamBolen\Parallel-PozitifTamBolen\obj\Debug\Parallel-PozitifTamBolen.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Windows\Console Application\Parallel-PozitifTamBolen\Parallel-PozitifTamBolen\obj\Debug\Parallel-PozitifTamBolen.exe
+D:\Documents\Works\Visual Studio\C#\Windows\Console Application\Parallel-PozitifTamBolen\Parallel-PozitifTamBolen\obj\Debug\Parallel-PozitifTamBolen.pdb
